@@ -1,4 +1,4 @@
-# Horiseon Social Services - Module Challenge 1
+# Horiseon Social Solutions - Module Challenge 1
 
 ### User Story
 AS A marketing agency
@@ -14,7 +14,7 @@ Image and icon elements contain accessible alt attributes
 Heading attributes fall in sequential order
 Title elements contain a concise, descriptive title
 
-Changes Made: 
+### Changes Made: 
 - Added a more descriptive title
 - Added semantic code e.g. header, footer, nav, section, aside
 - Gave descriptive alt text to images and icons
@@ -25,6 +25,6 @@ Changes Made:
 
 The following image shows the web application's appearance and functionality:
 
-
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Screenshot.jpeg)
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
