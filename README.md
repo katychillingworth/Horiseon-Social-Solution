@@ -1,5 +1,7 @@
 # Horiseon Social Solutions - Module Challenge 1
 
+https://katychillingworth.github.io/Module-Challenge-1/
+
 ### User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -20,11 +22,14 @@ Title elements contain a concise, descriptive title
 - Gave descriptive alt text to images and icons
 - Added comments to make code easier to read/navigate
 - Changed header tags to follow size heirarchy 
+- Added ID attribute to SEO section to make link work
 
 ### Screenshot of Horiseon site
 
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Screenshot.jpeg)
+
+
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
